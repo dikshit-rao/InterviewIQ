@@ -18,7 +18,6 @@ Built with a Retrieval-Augmented Generation (RAG) pipeline and Google Gemini.
 
 ## 🖼️ Screenshots
 
-> Add your screenshots to a `docs/screenshots/` folder and update the links below.
 
 | Dashboard | AI Chat with citations |
 |-----------|------------------------|
