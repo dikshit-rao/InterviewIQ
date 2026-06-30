@@ -1,0 +1,21 @@
+# Secrets
+.env
+backend/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Storage / generated data
+backend/storage/
+backend/uploads/
+backend/vector_db/
+backend/metadata/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Editor
+.vscode/
